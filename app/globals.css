@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #F5F1E6;
+  color: #1C2B24;
+}
+
+.rule-line {
+  border-top: 1px solid #C9C0A8;
+}
